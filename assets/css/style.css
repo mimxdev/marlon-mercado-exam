@@ -1,0 +1,47 @@
+#table {
+  border-radius: 15px;
+  border: 1px solid lightgrey;
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.testimonial-card .card-up {
+  height: 100px;
+}
+
+.card-body {
+  font-size: smaller;
+}
+
+.gradient {
+  background: radial-gradient(
+    circle at 81.9% 53.5%,
+    rgb(173, 53, 53) 16.3%,
+    rgb(240, 60, 60) 100.2%
+  );
+}
+
+.testimonial-card .avatar {
+  width: 110px;
+  margin-top: -60px;
+  overflow: hidden;
+  border: 5px solid #fff;
+  border-radius: 50%;
+}
+
+.card-index {
+  width: 40%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
+
+#container {
+  text-align: center;
+}
+
+#ytTable {
+  font-size: smaller;
+}
